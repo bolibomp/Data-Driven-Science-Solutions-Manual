@@ -10,6 +10,6 @@ The books website: https://databookuw.com/
 Note that the code will probably look ugly from time to time and I might skip some exercise in some chapters and come back to them later.
 
 
-* Chapter 1 mostly done
-* Chapter 2 has some error and incomplete solutions
-* Chapter 3 has several missing excersies and some incomplete solutions
+* Chapter 1: mostly done :heavy_minus_sign:
+* Chapter 2: has some error and incomplete solutions :x:
+* Chapter 3: has several missing excersies and some incomplete solutions :x:
