@@ -6,3 +6,5 @@ The book can be found and downloaded for free here: https://faculty.washington.e
 The books website: https://databookuw.com/
 
 ## I'll add solutions as a work through the book. If you want to contribute just hit me with a PR
+
+Note that the code will probably look ugly from time to time and I might skip some exercise in some chapters and come back to them later
