@@ -13,3 +13,5 @@ Note that the code will probably look ugly from time to time and I might skip so
 * Chapter 1: mostly done :heavy_minus_sign:
 * Chapter 2: has some error and incomplete solutions :x:
 * Chapter 3: has several missing excersies and some incomplete solutions :x:
+* Chapter 4: mostly done. missing completed last excerise :heavy_minus_sign:
+* Chapter 5: first excerise is mostly done. need cleaning :x:
