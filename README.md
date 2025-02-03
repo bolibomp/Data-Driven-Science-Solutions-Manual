@@ -7,11 +7,8 @@ The books website: https://databookuw.com/
 
 ## I'll add solutions as a work through the book. If you want to contribute just hit me with a PR
 
-Note that the code will probably look ugly from time to time and I might skip some exercise in some chapters and come back to them later.
-
-
-* Chapter 1: mostly done :heavy_minus_sign:
-* Chapter 2: has some error and incomplete solutions :x:
-* Chapter 3: has several missing excersies and some incomplete solutions :x:
-* Chapter 4: mostly done. missing completed last excerise :heavy_minus_sign:
-* Chapter 5: first excerise is mostly done. need cleaning :x:
+* Chapter 1: Done ✅
+* Chapter 2: Done ✅
+* Chapter 3: Done ✅
+* Chapter 4: Done ✅
+* Chapter 5: Done ✅
